@@ -1,0 +1,7 @@
+com/demooAuth2/controller/DemoController.class
+com/demooAuth2/App.class
+com/demooAuth2/model/User.class
+com/demooAuth2/service/UserService.class
+com/demooAuth2/repsoitory/UserRepository.class
+com/demooAuth2/config/OAuth2Config.class
+com/demooAuth2/model/Role.class
